@@ -1,2 +1,1 @@
-# Huong dan git co ban
-# hehe123
+#đây là comment thu nhat
